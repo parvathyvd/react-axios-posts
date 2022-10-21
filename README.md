@@ -1,15 +1,13 @@
-# "React JS - Axios API Requests"
+React JS - Axios API Requests 
+Link:
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+![image](https://user-images.githubusercontent.com/25538870/197279571-ff698430-83a5-476b-a50a-cdef0ff36362.png)
+![image](https://user-images.githubusercontent.com/25538870/197279596-da39082c-145d-4d50-8b0c-51e6c407e106.png)
+![image](https://user-images.githubusercontent.com/25538870/197279633-8df28bb4-8fbb-4b28-bb2a-089e74820d9c.png)
+![image](https://user-images.githubusercontent.com/25538870/197279668-c6925f98-9332-497b-9e1c-17c2de450b93.png)
+![image](https://user-images.githubusercontent.com/25538870/197279704-46a00c3c-78ad-4027-96d9-42e13f2f4ea1.png)
 
-**Description:**
 
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Learn React Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp) on my channel.  
 
-[YouTube Tutorial](https://youtu.be/ZEKBDXGnD4s) for this repository.
 
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
